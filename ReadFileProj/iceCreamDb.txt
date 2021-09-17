@@ -1,0 +1,13 @@
+
+{"Name":"Mint Chocolate Chips","Flavor":"Mint","Base":"Oat Milk","Toppings":["Chocolate Chips","Almonds"]}
+{"Name":"Butter is Better","Flavor":"Butter Pecan","Base":"Oat Milk","Toppings":["Pecans","M\u0026Ms","Chocolate Chips"]}
+{"Name":"Vanilla Craze","Flavor":"Vanilla","Base":"Almond Milk","Toppings":["Chocolate Sprinkles","Cherries","Marshmallows"]}
+{"Name":"Chocolate Rain","Flavor":"Chocolate","Base":"Dairy Milk","Toppings":["Marshmallows","Sprinkles"]}
+{"Name":"Mint Chocolate Chips","Flavor":"Mint","Base":"Oat Milk","Toppings":["Chocolate Chips","Almonds"]}
+{"Name":"Butter is Better","Flavor":"Butter Pecan","Base":"Oat Milk","Toppings":["Pecans","M\u0026Ms","Chocolate Chips"]}
+{"Name":"Vanilla Craze","Flavor":"Vanilla","Base":"Almond Milk","Toppings":["Chocolate Sprinkles","Cherries","Marshmallows"]}
+{"Name":"Chocolate Rain","Flavor":"Chocolate","Base":"Dairy Milk","Toppings":["Marshmallows","Sprinkles"]}
+{"Name":"Mint Chocolate Chips","Flavor":"Mint","Base":"Oat Milk","Toppings":["Chocolate Chips","Almonds"]}
+{"Name":"Butter is Better","Flavor":"Butter Pecan","Base":"Oat Milk","Toppings":["Pecans","M\u0026Ms","Chocolate Chips"]}
+{"Name":"Vanilla Craze","Flavor":"Vanilla","Base":"Almond Milk","Toppings":["Chocolate Sprinkles","Cherries","Marshmallows"]}
+{"Name":"Chocolate Rain","Flavor":"Chocolate","Base":"Dairy Milk","Toppings":["Marshmallows","Sprinkles"]}
